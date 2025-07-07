@@ -2,7 +2,7 @@ name: Sync Fork
 
 on:
   schedule:
-    - cron: '0 3 * * *'   # 每天凌晨3点自动执行（可根据需要调整时间）
+    - cron: '/30 * * * *'   # 每天凌晨3点自动执行（可根据需要调整时间）
   workflow_dispatch:       # 允许手动触发
 
 jobs:
