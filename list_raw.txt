@@ -166,7 +166,6 @@ hysteria2://Z5cdtfPHAPbFHC40PClBeD0hEzY@18.156.80.195:18551?insecure=1&sni=bing.
 hysteria2://a68e381f-84f6-452e-a644-d5296a1e6c54@140.245.35.137:44111?insecure=1&sni=www.bing.com#%20%40V2aryng_vpn%20%20%20%235
 hysteria2://a68e381f-84f6-452e-a644-d5296a1e6c54@141.11.42.195:44001?insecure=1&sni=www.bing.com#%20%40V2aryng_vpn%20%20%20%236
 hysteria2://c7d8e9f0-1234-5bcd-6abc-7890abcdef12@104.21.25.390:443?insecure=0&sni=hysteria.workers.dev#%40Filter_breaker%20%7C%20United%20State...
-hysteria2://ce26fc79-0a57-46ed-a67a-149fcf523cb1@shy42.zqjc.cloud:55215?insecure=1&sni=shy42.zqjc.cloud#%40v2ray_configs_pools
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.70.163:45979?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
 hysteria2://dec336f6-e5da-40f4-a4de-986c7b34d587@fr4.eyucdn.xyz:2056?insecure=1&sni=fr4.eyucdn.xyz#IRAN%204%20%28%40Outline_Vpn%29
 hysteria2://dongtaiwang.com@108.181.5.130:4710?insecure=1#%20%40V2aryng_vpn%20%20%20%237
