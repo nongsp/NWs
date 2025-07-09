@@ -2283,7 +2283,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: ' vpnowl@'
+- name: '@Mahdi2000_m ql_0365'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -2293,7 +2293,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: ' vpnowl@ #1'
+- name: '@Mahdi2000_m ql_0366'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -2303,7 +2303,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: ' vpnowl@ #2'
+- name: '@Mahdi2000_m ql_0367'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
