@@ -1714,6 +1714,15 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: ' Telegram : @Viturey'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  port: 35000
+  server: 206.71.158.40
+  sni: pichondan.com
+  tls: false
+  type: hysteria2
 - name: '  @V2xay'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -2240,6 +2249,15 @@ proxies:
   obfs-password: v2raybluecrystal
   password: 6E7ZX07Att
   port: 40408
+  server: v2raybluecrystal.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: v2raybluecrystal3
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: 6E7ZX07Att
+  port: 47294
   server: v2raybluecrystal.3dfigures.ir
   skip-cert-verify: true
   tls: false
