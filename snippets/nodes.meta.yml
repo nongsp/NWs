@@ -1721,14 +1721,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66  #2'
-  password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
-  port: 47262
-  server: 40.233.73.221
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 'Telegram : @Ezaccess1 Server :...'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -1747,14 +1739,6 @@ proxies:
   server: 77.90.52.69
   skip-cert-verify: true
   sni: pichondan.com
-  tls: false
-  type: hysteria2
-- name: Telegram@vmessorg
-  password: JSC7GnvDM4mIitnCZXQo8IKSPs
-  port: 29713
-  server: 13.250.121.168
-  skip-cert-verify: true
-  sni: bing.com
   tls: false
   type: hysteria2
 - name: '未命名 #4'
@@ -1857,21 +1841,13 @@ proxies:
   server: asg.pagate.top
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66  #14'
+- name: 'Channel id: @ShadowProxy66  #12'
   obfs: salamander
   obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
   password: ff35d96a-5065-4ed2-8a9e-aaa279c1efb5
   port: 31008
   server: 45.135.135.229
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 'Channel id: @ShadowProxy66  #15'
-  password: hfWoFliBzz7DzJ4AhSrCpNsiw
-  port: 21779
-  server: 54.212.32.103
-  skip-cert-verify: true
-  sni: bing.com
   tls: false
   type: hysteria2
 - name: '   DIGITALOCEAN-ASN'
@@ -1881,7 +1857,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66  #16'
+- name: 'Channel id: @ShadowProxy66  #13'
   password: nfsn666
   port: 8888
   server: 45.207.222.138
@@ -1893,14 +1869,6 @@ proxies:
   password: vlJbyJEtcNjHvV6dnkZ1Z4VjpI
   port: 10264
   server: 13.212.75.22
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- name: 'Telegram@vmessorg #2'
-  password: yoP8tOtEhMTSBUPY9LwnHABvFE
-  port: 14933
-  server: 18.136.211.127
   skip-cert-verify: true
   sni: bing.com
   tls: false
@@ -1987,7 +1955,7 @@ proxies:
   sni: /V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS
   tls: false
   type: hysteria2
-- name: '      @proxybeat ///  281'
+- name: 'Telegram @v2rayng_fars #5'
   password: 5424bc48-fd4a-4a17-b576-973423c3c33b
   port: 26523
   server: yjjdjnd.yunjijd.xyz
@@ -2315,6 +2283,14 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: Telegram@vmessorg
+  password: JSC7GnvDM4mIitnCZXQo8IKSPs
+  port: 29713
+  server: 13.250.121.168
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: '  @V2xay #3'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
@@ -2576,6 +2552,14 @@ proxies:
   server: 185.146.173.3400
   skip-cert-verify: false
   sni: hysteria.de.vpnfree.org
+  tls: false
+  type: hysteria2
+- name: 'Telegram@vmessorg #2'
+  password: yoP8tOtEhMTSBUPY9LwnHABvFE
+  port: 14933
+  server: 18.136.211.127
+  skip-cert-verify: true
+  sni: bing.com
   tls: false
   type: hysteria2
 - name: 'Channel id: @ShadowProxy66🇺🇸 #1'
