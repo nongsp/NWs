@@ -2007,14 +2007,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@SaghiVpnX[]'
-  password: 568b2070-e528-444e-9cc9-3ec3debe17bf
-  port: 443
-  server: jp03.poke-mon.xyz
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 'v2raybluecrystal2 #1'
   obfs: salamander
   obfs-password: v2raybluecrystal
@@ -2040,16 +2032,6 @@ proxies:
   port: 47294
   server: v2raybluecrystal.3dfigures.ir
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '@SaghiVpnX[] #1'
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
-  password: 74e4fd4b-a4ee-4b9e-8d14-21897385afb9
-  port: 20957
-  server: nexiateq.688997.xyz
-  skip-cert-verify: true
-  sni: nexiateq.688997.xyz
   tls: false
   type: hysteria2
 - name: '@V2rayNG3 #3'
@@ -2235,7 +2217,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@SaghiVpnX[] #2'
+- name: '@SaghiVpnX[]'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -2548,7 +2530,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@v2ray_configs_pool #1'
+- name: 'Telegram:@config_proxy '
   password: nfsn666
   port: 8888
   server: hk.nfsn666.gq
@@ -2633,7 +2615,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '@SaghiVpnX[] #3'
+- name: '@SaghiVpnX[] #1'
   obfs: salamander
   obfs-password: AwsdFRD453tG
   password: zz0IPHmeNp
@@ -2642,7 +2624,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@SaghiVpnX[] #4'
+- name: '@SaghiVpnX[] #2'
   obfs: salamander
   obfs-password: sanajan324@re44
   password: zz0IPHmeNp
