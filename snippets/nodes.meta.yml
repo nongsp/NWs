@@ -1747,7 +1747,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #5'
+- name: 'Telegram:@config_proxy '
   obfs: salamander
   obfs-password: KevinZakarian
   password: 6hDSryb2af
@@ -1779,7 +1779,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #8'
+- name: 'Telegram:@config_proxy  #1'
   obfs: salamander
   obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
   password: a18b26c8-6634-4238-8ccb-34e777e1277b
