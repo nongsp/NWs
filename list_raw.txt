@@ -195,7 +195,7 @@ hysteria2://Ys1Z1iA996@78.138.118.228:37804?insecure=1&obfs=salamander&obfs-pass
 hysteria2://b5c1b004cd051ef2f6ffedda2e47d538@206.71.158.40:33331?sni=jnir-1.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40Filter_breaker_206.71.158.40
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.30.237:45979?insecure=1&sni=www.bing.com#Telegram%40vmessorg%20%231
 hysteria2://d3b8fcfb-4f76-476e-9c7d-ce43a1d32267@nexiaxg.688997.xyz:20057?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%40SaghiVpnX%5B%5D%20%234
-hysteria2://d84be3ca-d0b6-4bd0-9b61-db86d7c65969@212.115.41.93:443?insecure=1&sni=aparat.com&obfs=salamander&obfs-password=Mzc5NTA3MjVlZDMyYTYyMA==#%20%20%40V2ray_persian21%20%7C%20%20%20
+hysteria2://d84be3ca-d0b6-4bd0-9b61-db86d7c65969@212.115.41.93:443?insecure=1&sni=aparat.com&obfs=salamander&obfs-password=Mzc5NTA3MjVlZDMyYTYyMA==#%20%20%20%20%20%20%20%40ConfVip
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#%40Daily_Configs%20%231
 hysteria2://dongtaiwang.com@45.129.2.108:50850?insecure=1&sni=www.bing.com#%40V2ray_cartel
 hysteria2://dongtaiwang.com@46.17.41.189:50717?insecure=1&sni=www.bing.com#%40V2rayNG3%20%238
