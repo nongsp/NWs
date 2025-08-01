@@ -85,7 +85,7 @@ proxies:
   udp: true
   uuid: b8bd42a9-551f-419d-b70d-4aefdd2cb074
   xudp: true
-- name: ' Germany_flydg_35230 | @Filter...'
+- name: '@v2ray_configs_pool #151'
   obfs: salamander
   obfs-password: ZWYxYjI3YjlmY2I0OGEwYw==
   password: e283d4e4-cbee-45e1-ab19-8eb0c9927891
