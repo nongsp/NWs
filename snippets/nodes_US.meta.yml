@@ -1314,16 +1314,6 @@ proxies:
   sni: f7c80a8d-svc1s0-t28b6o-ef48.los.gotochinatown.net
   tls: true
   type: socks5
-- name: ' USA_flymg_35210 | @Filter_bre...'
-  obfs: salamander
-  obfs-password: ZWYxYjI3YjlmY2I0OGEwYw==
-  password: e283d4e4-cbee-45e1-ab19-8eb0c9927891
-  port: 35210
-  server: flymg.flylink.cyou
-  skip-cert-verify: true
-  sni: flymg.flylink.cyou
-  tls: false
-  type: hysteria2
 - name: 'Channel id: @ShadowProxy66🇺🇸 #1'
   password: b72ba5d5-2d5e-45b7-93b5-236d343baa7c
   port: 47262
