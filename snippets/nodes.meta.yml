@@ -1868,6 +1868,16 @@ proxies:
 - name: '@Filter_breaker #13'
   obfs: salamander
   obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 707ea935-924c-4127-8b6d-8c0ccf5eabd1
+  port: 25784
+  server: dehub.xg-hub.icu
+  skip-cert-verify: true
+  sni: dehub.xg-hub.icu
+  tls: false
+  type: hysteria2
+- name: '@Filter_breaker #14'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
   password: 7b2e01b1-4f4c-408a-9ee5-ad340fbba0e4
   port: 20957
   server: nexiateq.688997.xyz
@@ -1875,52 +1885,7 @@ proxies:
   sni: nexiateq.688997.xyz
   tls: false
   type: hysteria2
-- name: '  @Filter_breaker'
-  obfs: salamander
-  obfs-password: ee44WW2eesdxfcghoerrbU9dfghjh
-  password: 85d3ef5ea053c9d65c32e535d38ad6c3
-  port: 44444
-  server: sw-oh.com.studentcp.ir
-  sni: sw-oh.com.studentcp.ir
-  tls: false
-  type: hysteria2
-- name: '  - @Filter_breaker'
-  obfs: salamander
-  obfs-password: esdxfcghoerrbU9dfghjh
-  password: 85d3ef5ea053c9d65c32e535d38ad6c3
-  port: 37243
-  server: turk-gorg.com.studentcp.ir
-  sni: turk-gorg.com.studentcp.ir
-  tls: false
-  type: hysteria2
-- name: '  - @Filter_breaker #1'
-  obfs: salamander
-  obfs-password: esdxfcghoerrbU9dfghjh
-  password: 85d3ef5ea053c9d65c32e535d38ad6c3
-  port: 20999
-  server: w.w.w.uae.studentcp.ir
-  sni: w.w.w.uae.studentcp.ir
-  tls: false
-  type: hysteria2
-- name: '  - @Filter_breaker #2'
-  obfs: salamander
-  obfs-password: CFtajjqjbGh6t5Vvah
-  password: 85d3ef5ea053c9d65c32e535d38ad6c3
-  port: 10201
-  server: ww.w.8.8.8.8.arman.com.studentcp.ir
-  sni: ww.w.8.8.8.8.arman.com.studentcp.ir
-  tls: false
-  type: hysteria2
-- name: '  @Filter_breaker #1'
-  obfs: salamander
-  obfs-password: ssS3Dassfyuf2dw5sssWVSewge3
-  password: 85d3ef5ea053c9d65c32e535d38ad6c3
-  port: 1423
-  server: www.putin.kom.studentcp.ir
-  sni: www.putin.kom.studentcp.ir
-  tls: false
-  type: hysteria2
-- name: '@Filter_breaker #14'
+- name: '@Filter_breaker #15'
   obfs: salamander
   obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
   password: 923e41fe-1893-489b-b827-71364438e293
@@ -1930,7 +1895,7 @@ proxies:
   sni: bx.dport.top
   tls: false
   type: hysteria2
-- name: '@Filter_breaker #15'
+- name: '@Filter_breaker #16'
   obfs: salamander
   obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
   password: 923e41fe-1893-489b-b827-71364438e293
@@ -1940,7 +1905,7 @@ proxies:
   sni: dg.dport.top
   tls: false
   type: hysteria2
-- name: '@Filter_breaker #16'
+- name: '@Filter_breaker #17'
   obfs: salamander
   obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
   password: 923e41fe-1893-489b-b827-71364438e293
@@ -1950,7 +1915,7 @@ proxies:
   sni: fg.dport.top
   tls: false
   type: hysteria2
-- name: '@Filter_breaker #17'
+- name: '@Filter_breaker #18'
   obfs: salamander
   obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
   password: 923e41fe-1893-489b-b827-71364438e293
@@ -1960,7 +1925,7 @@ proxies:
   sni: hl.dport.top
   tls: false
   type: hysteria2
-- name: '@Filter_breaker #18'
+- name: '@Filter_breaker #19'
   obfs: salamander
   obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
   password: 923e41fe-1893-489b-b827-71364438e293
@@ -1970,7 +1935,7 @@ proxies:
   sni: jnd.dport.top
   tls: false
   type: hysteria2
-- name: '@Filter_breaker #19'
+- name: '@Filter_breaker #20'
   obfs: salamander
   obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
   password: 923e41fe-1893-489b-b827-71364438e293
@@ -1980,7 +1945,7 @@ proxies:
   sni: mg.dport.top
   tls: false
   type: hysteria2
-- name: '@Filter_breaker #20'
+- name: '@Filter_breaker #21'
   obfs: salamander
   obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
   password: 923e41fe-1893-489b-b827-71364438e293
@@ -1990,7 +1955,7 @@ proxies:
   sni: rb.dport.top
   tls: false
   type: hysteria2
-- name: '@Filter_breaker #21'
+- name: '@Filter_breaker #22'
   obfs: salamander
   obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
   password: 923e41fe-1893-489b-b827-71364438e293
@@ -2023,7 +1988,7 @@ proxies:
   sni: sg3.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '@Filter_breaker #22'
+- name: '@Filter_breaker #23'
   obfs: salamander
   obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
   password: af5cd0c6-9df5-4728-984a-0a85ecafb668
@@ -2073,7 +2038,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #8'
+- name: 'Telegram:@config_proxy  #1'
   password: cf125f42-759d-4112-82c3-014d2ffcb1e7
   port: 1443
   server: 185.85.242.177
@@ -2195,16 +2160,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 'Telegram:@config_proxy '
-  obfs: salamander
-  obfs-password: ZWYxYjI3YjlmY2I0OGEwYw==
-  password: 2c0b8dc3-6dd7-4a47-acfb-6d12de70e2ed
-  port: 35270
-  server: flyels.flylink.cyou
-  skip-cert-verify: true
-  sni: flyels.flylink.cyou
-  tls: false
-  type: hysteria2
 - name: ' @FreakConfig'
   obfs: salamander
   obfs-password: ZWYxYjI3YjlmY2I0OGEwYw==
@@ -2252,14 +2207,24 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 'Telegram:@config_proxy  #1'
+- name: 'Telegram:@config_proxy '
   obfs: salamander
-  obfs-password: ZWYxYjI3YjlmY2I0OGEwYw==
-  password: 5132d29b-e76d-4c5b-97a2-25d9ed8bd2b6
-  port: 35300
-  server: flyrb.flylink.cyou
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 51e23a46-c92a-477f-9675-d2a8088f9bbf
+  port: 33653
+  server: dg.dport.top
   skip-cert-verify: true
-  sni: flyxg.flylink.cyou
+  sni: dg.dport.top
+  tls: false
+  type: hysteria2
+- name: NL  | @v2xay
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 51e23a46-c92a-477f-9675-d2a8088f9bbf
+  port: 33659
+  server: hl.dport.top
+  skip-cert-verify: true
+  sni: hl.dport.top
   tls: false
   type: hysteria2
 - name: 'Channel id: @ShadowProxy66🇺🇸'
@@ -2581,16 +2546,6 @@ proxies:
   port: 41250
   server: 5.133.102.59
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 'Telegram:@config_proxy  #2'
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
-  password: edf85f14-ba97-49e4-990a-a4d873bab1a1
-  port: 25784
-  server: dehub.xg-hub.icu
-  skip-cert-verify: true
-  sni: dehub.xg-hub.icu
   tls: false
   type: hysteria2
 - name: '  @V2xay #5'
