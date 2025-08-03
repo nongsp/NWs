@@ -113,7 +113,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: FR_speednode_0023
+- name: FR_speednode_0022
   network: ws
   port: 8880
   server: 185.16.110.63
