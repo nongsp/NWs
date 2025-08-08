@@ -2130,13 +2130,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '  @V2xay'
-  password: 65a43b6e-19c5-4fab-b960-d110a07d66a4
-  port: 3234
-  server: 209.141.47.127
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: '10 https://dafei.de #2'
   password: 67828a6e-0144-4e57-8169-2447a3dd2e61
   port: 45000
@@ -2212,16 +2205,6 @@ proxies:
   port: 35000
   server: 206.71.158.40
   skip-cert-verify: false
-  sni: pichondan.com
-  tls: false
-  type: hysteria2
-- name: '  @V2xay #1'
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  port: 35000
-  server: 77.90.52.69
-  skip-cert-verify: true
   sni: pichondan.com
   tls: false
   type: hysteria2
@@ -2341,7 +2324,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '  @V2xay #3'
+- name: '  @V2xay'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -2488,14 +2471,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '  @V2xay #4'
-  password: dongtaiwang.com
-  port: 30033
-  server: 46.17.41.217
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: FR 2  | @v2xay
   password: dongtaiwang.com
   port: 31180
@@ -2548,16 +2523,6 @@ proxies:
   server: bx.dport.top
   skip-cert-verify: true
   sni: bx.dport.top
-  tls: false
-  type: hysteria2
-- name: '  @V2xay #5'
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
-  password: f39a270d-c46e-4a39-a998-b33660291e7e
-  port: 20557
-  server: nexiadg.688997.xyz
-  skip-cert-verify: true
-  sni: nexiadg.688997.xyz
   tls: false
   type: hysteria2
 - name: '@V2rayNG3 #9'
@@ -2663,15 +2628,6 @@ proxies:
   port: 7431
   server: 18.141.229.199
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '  @V2xay #6'
-  obfs: salamander
-  obfs-password: The_Sefr-salamdash
-  password: user12.myserverSEFR097
-  port: 443
-  server: knock.zone1.center
-  skip-cert-verify: false
   tls: false
   type: hysteria2
 - name: '@SaghiVpnXBOT []'
