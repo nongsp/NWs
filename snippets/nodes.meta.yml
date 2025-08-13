@@ -1942,7 +1942,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #14'
+- name: 'Telegram:@config_proxy '
   password: nfsn666
   port: 8888
   server: 45.207.222.138
