@@ -1314,6 +1314,22 @@ proxies:
   sni: f7c80a8d-svc1s0-t28b6o-ef48.los.gotochinatown.net
   tls: true
   type: socks5
+- name: US
+  password: HfK3UK4MoXxYUccnp7qzx3Y3o
+  port: 34321
+  server: 209.38.144.136
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 'US #1'
+  password: Wjes5mJnUmH7kwzpgZX5d2BeCs
+  port: 13438
+  server: 143.110.156.170
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - client-fingerprint: chrome
   name: 🇺🇸 美国|@ripaojiedian
   network: ws

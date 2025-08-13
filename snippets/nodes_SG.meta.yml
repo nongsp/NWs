@@ -45,7 +45,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 'SG #1'
+- name: '未命名 #7'
   password: 5OiuCsPmULZ0lJwts89fegLJE
   port: 17193
   server: 54.169.224.169
