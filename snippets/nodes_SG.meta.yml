@@ -37,30 +37,6 @@ proxies:
     headers:
       Host: reedfree8mahsang2.redorg.ir
     path: /?ed=2560
-- name: SG
-  password: 3hszBhqVsUhqOOFWJlev6k6Tkc
-  port: 22509
-  server: 54.255.144.66
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- name: '未命名 #7'
-  password: 5OiuCsPmULZ0lJwts89fegLJE
-  port: 17193
-  server: 54.169.224.169
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- name: 'SG #2'
-  password: Y5kSCRNcOSz5YQUkjehzVXeT2mk
-  port: 19298
-  server: 175.41.154.215
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
 - client-fingerprint: chrome
   name: 新加坡|@ripaojiedian
   network: tcp
