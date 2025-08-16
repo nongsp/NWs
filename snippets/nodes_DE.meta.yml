@@ -1,14 +1,4 @@
 proxies:
-- name: ' @FreakConfig #1'
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
-  password: 51e23a46-c92a-477f-9675-d2a8088f9bbf
-  port: 33653
-  server: dg.dport.top
-  skip-cert-verify: true
-  sni: dg.dport.top
-  tls: false
-  type: hysteria2
 - name: DE_speednode_0031
   network: ws
   port: 8880
