@@ -290,7 +290,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 'Telegram:@config_proxy '
+- name: '@Daily_Configs #2'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -338,6 +338,15 @@ proxies:
   server: 89.185.27.133
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 'Channel id: @ShadowProxy66 #15'
+  obfs: salamander
+  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
+  password: c8631767-f45c-4f48-bf19-5405e6d18679
+  port: 33079
+  server: 45.136.245.177
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 'Channel id: @proxy_kafee #9'
@@ -402,7 +411,7 @@ proxies:
   server: asg.pagate.top
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #19'
+- name: 'Channel id: @ShadowProxy66 #20'
   password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099
   port: 43057
   server: 203.174.82.145
