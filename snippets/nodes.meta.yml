@@ -126,7 +126,7 @@ proxies:
   sni: cn.cremedelamer.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #3'
+- name: 'Channel id: @ShadowProxy66 #2'
   password: 5CBqBh6MeDq6GajcilBiDg==
   port: 61001
   server: 192.227.152.86
@@ -176,7 +176,7 @@ proxies:
   sni: hl.dport.top
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #5'
+- name: 'Channel id: @ShadowProxy66 #4'
   password: 7992f244-8c2c-4a1a-923f-2e116e90149b
   port: 443
   server: 198.23.130.211
@@ -372,7 +372,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #10'
+- name: 'Channel id: @ShadowProxy66 #8'
   obfs: salamander
   obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
   password: c8631767-f45c-4f48-bf19-5405e6d18679
@@ -443,7 +443,7 @@ proxies:
   server: asg.pagate.top
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #14'
+- name: 'Channel id: @ShadowProxy66 #12'
   password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099
   port: 43057
   server: 203.174.82.145
@@ -479,7 +479,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #15'
+- name: 'Channel id: @ShadowProxy66 #13'
   password: nfsn666
   port: 8888
   server: 45.207.222.138
