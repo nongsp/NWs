@@ -15,6 +15,14 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 'US #2'
+  password: peEduuHzbExjK7UQHzazXwqgA
+  port: 27704
+  server: 166.88.164.9
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - cipher: aes-128-gcm
   client-fingerprint: chrome
   name: 🇺🇸 美国|@ripaojiedian
