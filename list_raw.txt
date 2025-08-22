@@ -55,7 +55,7 @@ hysteria2://de8854c7-fa17-4266-ae18-50a9732a0c4e@us2.1010991.xyz:3001?insecure=1
 hysteria2://dongtaiwang.com@108.181.5.130:63015?insecure=1&sni=apple.com#%40Selinc
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#%20%40FreakConfig%20%234
 hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com#98%40oneclickvpnkeys
-hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#%20%20%20%40Viturey%20%234
+hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#%40Hddify%20
 hysteria2://e10ea0d5-4244-4aec-9ba0-cafe77cc6d90@aws-linkhy10.liangxin1.xyz:443?insecure=1&sni=www.teslaautomation.de#%E6%9C%AA%E5%91%BD%E5%90%8D%20%2318
 hysteria2://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@asg.pagate.top:10086?#%E6%9C%AA%E5%91%BD%E5%90%8D%20%2319
 hysteria2://eb75320e-a6d0-4b34-a6b6-2bcfc96a9099@203.174.82.145:43057?insecure=1&sni=www.bing.com#%40Daily_Configs%20%233
@@ -96,8 +96,7 @@ hysteria2://AtTK3tiEA0@p1.punchline.ir:2087?insecure=1&obfs=salamander&obfs-pass
 hysteria2://AtTK3tiEA0@p1.punchline.ir:44929?insecure=1&obfs=salamander&obfs-password=bluhbluh#%40V2rayNG3%20%237
 hysteria2://Bz0jKM83wa@android.yas-nowin.ir:443?sni=android.yas-nowin.ir#%20%20%20%20%20%20V2rayNG%20%20%20%20%20%20
 hysteria2://J7VnJazPBw@android.yas-nowin.ir:443?insecure=0&sni=android.yas-nowin.ir#%20%20%20%20%232
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%20%20%20%40Viturey%20%232
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%20%20%20%40Viturey%20%231
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#TEL%20%3E%20SaghiVpnXBOT%20%5B%5D
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?insecure=1&sni=YAPC-1.afshin.ir?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40HiByeVPNN
 hysteria2://aad14334740e854a0e24fe5dcf414967@p1ldar.fizikade.ir:8883?insecure=0&sni=p1ldar.fizikade.ir&obfs=salamander&obfs-password=esdxfcghoewaahabvrrbU9dfghjh#%20%20%20-%20
 hysteria2://dac2d4dd-9a4d-4eb0-92a6-028532caed52@107.174.41.101:45000?insecure=1&sni=www.apple.com#10%20https%3A//dafei.de%20%231
