@@ -200,7 +200,7 @@ proxies:
   sni: hl.dport.top
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #6'
+- name: 'Channel id: @ShadowProxy66 #4'
   password: 7992f244-8c2c-4a1a-923f-2e116e90149b
   port: 443
   server: 198.23.130.211
@@ -299,7 +299,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #12'
+- name: 'Channel id: @ShadowProxy66 #9'
   password: O0URQrRTemVsvUP6jvcBwEIN7Ng
   port: 10832
   server: 35.178.136.205
@@ -413,7 +413,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #17'
+- name: 'Channel id: @ShadowProxy66 #13'
   obfs: salamander
   obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
   password: c8631767-f45c-4f48-bf19-5405e6d18679
@@ -446,7 +446,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: ' @FreakConfig #4'
+- name: 'Channel id: @ShadowProxy66 #15'
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
@@ -520,7 +520,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #22'
+- name: 'Channel id: @ShadowProxy66 #17'
   password: nfsn666
   port: 8888
   server: 45.207.222.138
@@ -650,16 +650,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: ' @FreakConfig'
-  obfs: salamander
-  obfs-password: ZWYxYjI3YjlmY2I0OGEwYw==
-  password: 30cd031e-b4a6-4bc7-a99a-9642259fdeff
-  port: 35230
-  server: flydg.flylink.cyou
-  skip-cert-verify: true
-  sni: flydg.flylink.cyou
-  tls: false
-  type: hysteria2
 - name: '      V2rayNG    '
   password: 3QlSMKyqLp
   port: 443
@@ -676,7 +666,7 @@ proxies:
   sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
-- name: ' @FreakConfig #1'
+- name: ' @FreakConfig'
   obfs: salamander
   obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
   password: 51e23a46-c92a-477f-9675-d2a8088f9bbf
@@ -686,15 +676,7 @@ proxies:
   sni: dg.dport.top
   tls: false
   type: hysteria2
-- name: 10 https://dafei.de
-  password: 527a7c04-9a2c-4fdb-aa18-37337e62e917
-  port: 45000
-  server: 107.174.41.101
-  skip-cert-verify: true
-  sni: www.apple.com
-  tls: false
-  type: hysteria2
-- name: ' @FreakConfig #2'
+- name: ' @FreakConfig #1'
   obfs: salamander
   obfs-password: ZWYxYjI3YjlmY2I0OGEwYw==
   password: 61f9655f-92cd-4556-bba6-6c8d9d5bd469
@@ -844,14 +826,6 @@ proxies:
   sni: p1ldar.fizikade.ir
   tls: false
   type: hysteria2
-- name: '10 https://dafei.de #1'
-  password: dac2d4dd-9a4d-4eb0-92a6-028532caed52
-  port: 45000
-  server: 107.174.41.101
-  skip-cert-verify: true
-  sni: www.apple.com
-  tls: false
-  type: hysteria2
 - name: '@V2ray1_Ng'
   password: dongtaiwang.com
   port: 50850
@@ -884,13 +858,6 @@ proxies:
   server: 185.126.255.78
   skip-cert-verify: false
   sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
-- name: ' @FreakConfig #5'
-  password: kWlrCka5jzfKbD2z7ucwANEdZM
-  port: 26404
-  server: 47.245.53.59
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '      V2rayNG     #1'
