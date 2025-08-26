@@ -1,28 +1,4 @@
 proxies:
-- name: US
-  password: HfK3UK4MoXxYUccnp7qzx3Y3o
-  port: 34321
-  server: 209.38.144.136
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- name: 'US #1'
-  password: Wjes5mJnUmH7kwzpgZX5d2BeCs
-  port: 13438
-  server: 143.110.156.170
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- name: 'US #2'
-  password: peEduuHzbExjK7UQHzazXwqgA
-  port: 27704
-  server: 166.88.164.9
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
