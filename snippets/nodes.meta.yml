@@ -86,7 +86,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: FR
+- name: '@FreakConfig'
   password: 45b46edb-679b-4ea5-befd-88c05bb94f80
   port: 2056
   server: de.eyucdn.xyz
@@ -221,7 +221,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #1'
+- name: '@FreakConfig #2'
   password: RzQrEkAmnGs86IhmSVUk9Q5cn9M
   port: 30308
   server: 47.236.104.81
@@ -348,7 +348,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '   @Viturey #4'
+- name: '@FreakConfig #5'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -484,7 +484,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig'
+- name: '@FreakConfig #1'
   password: 8b583292-c936-4723-a8c7-8adb8ecf5044
   port: 22154
   server: hsxjp.huasuan666.top
@@ -640,7 +640,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@V2NOT #1'
+- name: '@FreakConfig #4'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -676,7 +676,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #4'
+- name: '@FreakConfig #6'
   password: f192a1eb-5987-49b2-9b2d-31a1410d7566
   port: 22156
   server: hsyg.huasuan666.top
