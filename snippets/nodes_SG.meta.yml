@@ -15,6 +15,14 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 'SG #5'
+  password: XON4wZ0sXe1YaqFY2FeM7uZY4
+  port: 15221
+  server: 122.248.205.111
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: 'SG #6'
   password: Y5kSCRNcOSz5YQUkjehzVXeT2mk
   port: 19298
@@ -27,8 +35,8 @@ proxies:
   name: 新加坡|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
-  port: 8116
-  server: 43.199.63.145
+  port: 3043
+  server: 36.150.215.203
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
@@ -36,16 +44,8 @@ proxies:
   name: 新加坡2|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
-  port: 2045
-  server: 43.199.63.145
+  port: 4397
+  server: 36.150.215.203
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡3|@ripaojiedian
-  password: GhYEufnq9M9yvgAc1ylvfq
-  port: 18336
-  server: 165.22.61.177
-  tfo: false
-  type: ss
