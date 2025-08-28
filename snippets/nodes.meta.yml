@@ -221,6 +221,14 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: '@FreakConfig #1'
+  password: RzQrEkAmnGs86IhmSVUk9Q5cn9M
+  port: 30308
+  server: 47.236.104.81
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: 'US #1'
   password: Wjes5mJnUmH7kwzpgZX5d2BeCs
   port: 13438
@@ -299,7 +307,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @proxy_kafee #9'
+- name: 'Channel id: @proxy_kafee #10'
   obfs: salamander
   obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
   password: c8631767-f45c-4f48-bf19-5405e6d18679
@@ -332,7 +340,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @proxy_kafee #11'
+- name: 'Channel id: @proxy_kafee #12'
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
@@ -599,14 +607,6 @@ proxies:
   port: 2428
   server: 47.239.220.214
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '@FreakConfig #1'
-  password: RzQrEkAmnGs86IhmSVUk9Q5cn9M
-  port: 30308
-  server: 47.236.104.81
-  skip-cert-verify: true
-  sni: bing.com
   tls: false
   type: hysteria2
 - name: '@Daily_Configs #4'
