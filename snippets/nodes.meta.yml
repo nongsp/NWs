@@ -349,7 +349,7 @@ proxies:
   sni: us2.1010991.xyz
   tls: false
   type: hysteria2
-- name: '@FreakConfig #9'
+- name: '@FreakConfig #10'
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
@@ -365,7 +365,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #10'
+- name: '@FreakConfig #11'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -681,7 +681,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@FreakConfig #7'
+- name: '@FreakConfig #8'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -727,7 +727,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #11'
+- name: '@FreakConfig #12'
   password: f192a1eb-5987-49b2-9b2d-31a1410d7566
   port: 22156
   server: hsyg.huasuan666.top
