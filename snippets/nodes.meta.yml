@@ -427,12 +427,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 'Telegram:@config_proxy '
-  password: sbTgbaipiaoyonhhu.siMasualiylanguv
-  port: 443
-  server: makeuagreatagain.nicme.me
-  tls: false
-  type: hysteria2
 - name: '未命名 #22'
   password: vlJbyJEtcNjHvV6dnkZ1Z4VjpI
   port: 10264
