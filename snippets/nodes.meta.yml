@@ -24,13 +24,13 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '  : @V2Gatee #1'
+- name: '      Config_Rayegan@ #2'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
   port: 36600
   server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
@@ -50,7 +50,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @singbox1 #5'
+- name: '@V2Ray_hiddify10266'
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
@@ -58,7 +58,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '  : @V2Gatee #2'
+- name: '   @Viturey #4'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -100,6 +100,14 @@ proxies:
   server: chervhill.hajalii.com
   skip-cert-verify: false
   sni: chervhill.hajalii.com
+  tls: false
+  type: hysteria2
+- name: ' @Hddify'
+  password: 1fdb6b30-5371-4ff8-a001-efdc4b43d79b
+  port: 43429
+  server: 185.126.255.78
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
 - name: '@Daily_Configs'
@@ -205,18 +213,18 @@ proxies:
   sni: hsyg.huasuan666.top
   tls: false
   type: hysteria2
+- name: ' @Hddify #1'
+  password: 942b9cb8-92fa-46ac-ae91-f69c8234434b
+  port: 43429
+  server: 185.126.255.78
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
+  tls: false
+  type: hysteria2
 - name: '      V2rayNG      '
   password: Bz0jKM83wa
   port: 443
   server: android.yas-nowin.ir
-  sni: android.yas-nowin.ir
-  tls: false
-  type: hysteria2
-- name: '    #2'
-  password: J7VnJazPBw
-  port: 443
-  server: android.yas-nowin.ir
-  skip-cert-verify: false
   sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
