@@ -42,7 +42,7 @@ proxies:
   sni: www.microsoft.com
   tls: false
   type: hysteria2
-- name: '@Selinc #1'
+- name: '@Takv2ray_org | US '
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
@@ -178,7 +178,7 @@ proxies:
   sni: drhystuichdfy.samanidempire.org
   tls: false
   type: hysteria2
-- name: All-@IRAN_V2RAY1
+- name: '@Takv2ray_org | SE '
   obfs: salamander
   obfs-password: U1wBrYQyFm
   password: 80747420-96c4-4a2f-83e6-eea4e46beb09
@@ -307,6 +307,16 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
+- name: '  : injastvpn@'
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 36400
+  server: yapc-1.adamhayward.co.uk
+  skip-cert-verify: false
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
 - name: '@V2RAYNG_1378'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -322,16 +332,6 @@ proxies:
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
   port: 36300
-  server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: false
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: '  : injastvpn@'
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 36400
   server: yapc-1.adamhayward.co.uk
   skip-cert-verify: false
   sni: YAPC-1.afshin.ir
@@ -401,6 +401,16 @@ proxies:
   password: joindailyconfigs
   port: 443
   server: 176.124.204.248
+  skip-cert-verify: true
+  sni: slack.com
+  tls: false
+  type: hysteria2
+- name: '@Daily_Configs ( _ )'
+  obfs: salamander
+  obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs
+  password: joindailyconfigs
+  port: 443
+  server: 95.181.174.31
   skip-cert-verify: true
   sni: slack.com
   tls: false
@@ -502,7 +512,7 @@ proxies:
   name: 🇭🇰 香港5|@ripaojiedian
   password: amazongreatvpn
   port: 16888
-  server: 18.162.224.234
+  server: 18.163.165.61
   type: ss
 - name: 香港6|@ripaojiedian
   network: tcp
@@ -574,7 +584,7 @@ proxies:
   name: 🇯🇵 日本5|@ripaojiedian
   password: amazongreatvpn
   port: 16888
-  server: 57.183.2.72
+  server: 3.115.20.29
   type: ss
 - name: 新加坡|@ripaojiedian
   network: tcp
