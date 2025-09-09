@@ -76,7 +76,7 @@ proxies:
   sni: plaza.ir
   tls: false
   type: hysteria2
-- name: '@FreakConfig #8'
+- name: '@FreakConfig #7'
   password: miaoge110
   port: 12687
   server: 45.58.38.153
@@ -385,7 +385,7 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #7'
+- name: '@FreakConfig #6'
   obfs: salamander
   obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN
   password: dailyconfigs
