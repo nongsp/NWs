@@ -1,23 +1,5 @@
 proxies:
-- name: 🛞3@oneclickvpnkeys
-  password: 8da7bd17-70ab-472d-a925-cc827857dc35
-  port: 443
-  server: ylk.1mao.me
-  skip-cert-verify: true
-  sni: ylk.1mao.me
-  tls: false
-  type: hysteria2
-- name: '      Config_Rayegan@ #2'
-  obfs: salamander
-  obfs-password: Yet-Another-Public-Config-1
-  password: Yet-Another-Public-Config-1
-  port: 36600
-  server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: false
-  sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #1'
+- name: 'Channel id: @ShadowProxy66🇺🇸'
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
@@ -41,14 +23,6 @@ proxies:
   server: 185.126.255.78
   skip-cert-verify: false
   sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
-- name: '@Daily_Configs'
-  password: 2429bee3-e0c1-47dd-b420-75e6512b184b
-  port: 30300
-  server: 40.233.102.224
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '      V2rayNG    '
@@ -207,6 +181,16 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
+- name: '      Config_Rayegan@ #2'
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 36600
+  server: yapc-1.adamhayward.co.uk
+  skip-cert-verify: false
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
 - name: '@vpnserverrr'
   password: c9edf5cb-67ef-4440-8684-b3d301df6488
   port: 21053
@@ -215,57 +199,7 @@ proxies:
   sni: yue-ru.yuetoto.net
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #4'
-  obfs: salamander
-  obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs
-  password: channel_dailyconfigs
-  port: 443
-  server: 95.181.174.31
-  skip-cert-verify: true
-  sni: slack.com
-  tls: false
-  type: hysteria2
-- name: '@Daily_Configs IPv4'
-  obfs: salamander
-  obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN
-  password: channel_dailyconfigs
-  port: 443
-  server: 176.124.204.248
-  skip-cert-verify: true
-  sni: ubuntu com
-  tls: false
-  type: hysteria2
-- name: '@Daily_Configs IPv4 #1'
-  obfs: salamander
-  obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN
-  password: daily_configs
-  port: 443
-  server: 176.124.204.248
-  skip-cert-verify: true
-  sni: ubuntu com
-  tls: false
-  type: hysteria2
-- name: '@Daily_Configs IPv4 #2'
-  obfs: salamander
-  obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs
-  password: daily_configs_daily_configs_daily_configs_daily_configs_daily_configs_daily_configs_daily_configs_daily_configs_daily_configs
-  port: 443
-  server: 95.181.174.31
-  skip-cert-verify: true
-  sni: slack.com
-  tls: false
-  type: hysteria2
-- name: dailyconfigs-IPv4
-  obfs: salamander
-  obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs
-  password: dailyconfigs
-  port: 443
-  server: 95.181.174.31
-  skip-cert-verify: true
-  sni: slack.com
-  tls: false
-  type: hysteria2
-- name: '@Daily_Configs <==  '
+- name: '@FreakConfig #4'
   obfs: salamander
   obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN
   password: dailyconfigs
@@ -299,46 +233,6 @@ proxies:
   server: 51.159.111.32
   skip-cert-verify: true
   sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: '@Daily_Configs IPv4 #3'
-  obfs: salamander
-  obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs
-  password: joinbededailyconfigs
-  port: 443
-  server: 95.181.174.31
-  skip-cert-verify: true
-  sni: slack.com
-  tls: false
-  type: hysteria2
-- name: '@Daily_Configs <==   #2'
-  obfs: salamander
-  obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN
-  password: joindailyconfigs
-  port: 443
-  server: 176.124.204.248
-  skip-cert-verify: true
-  sni: slack.com
-  tls: false
-  type: hysteria2
-- name: '@Daily_Configs == '
-  obfs: salamander
-  obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs
-  password: joindailyconfigs
-  port: 443
-  server: 95.181.174.31
-  skip-cert-verify: true
-  sni: slack.com
-  tls: false
-  type: hysteria2
-- name: '@Daily_Configs IPv4 #4'
-  obfs: salamander
-  obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs
-  password: kanale_dailyconfigs
-  port: 443
-  server: 95.181.174.31
-  skip-cert-verify: true
-  sni: slack.com
   tls: false
   type: hysteria2
 - name: '@FreakConfig #6'
