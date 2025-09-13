@@ -33,7 +33,7 @@ proxies:
   sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
-- name: '@FreakConfig'
+- name: All--@IRAN_V2RAY1
   password: 45b46edb-679b-4ea5-befd-88c05bb94f80
   port: 2056
   server: de.eyucdn.xyz
@@ -97,7 +97,7 @@ proxies:
   sni: de.youyacloud.me
   tls: false
   type: hysteria2
-- name: '@FreakConfig #1'
+- name: '@FreakConfig'
   password: 934766f0-204c-42be-8cf7-9afc2a8b5eaf
   port: 22156
   server: hsyg.huasuan666.top
@@ -120,7 +120,7 @@ proxies:
   sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
-- name: '@FreakConfig #2'
+- name: '@FreakConfig #1'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -188,7 +188,7 @@ proxies:
   sni: yue-ru.yuetoto.net
   tls: false
   type: hysteria2
-- name: '@FreakConfig #4'
+- name: '@FreakConfig #3'
   obfs: salamander
   obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN
   password: dailyconfigs
@@ -198,7 +198,7 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #5'
+- name: '@FreakConfig #4'
   obfs: salamander
   obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN
   password: dailyconfigs
@@ -224,7 +224,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #6'
+- name: '@FreakConfig #5'
   password: miaoge110
   port: 12687
   server: 45.58.38.153
