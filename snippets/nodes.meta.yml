@@ -104,7 +104,7 @@ proxies:
   sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
-- name: '@FreakConfig'
+- name: '   @Viturey'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -172,7 +172,7 @@ proxies:
   sni: yue-ru.yuetoto.net
   tls: false
   type: hysteria2
-- name: '@FreakConfig #1'
+- name: '@FreakConfig'
   obfs: salamander
   obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN
   password: dailyconfigs
@@ -182,7 +182,7 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #2'
+- name: '@FreakConfig #1'
   obfs: salamander
   obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN
   password: dailyconfigs
@@ -208,7 +208,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #3'
+- name: '@FreakConfig #2'
   password: miaoge110
   port: 12687
   server: 45.58.38.153
