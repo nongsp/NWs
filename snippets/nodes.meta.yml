@@ -175,14 +175,6 @@ proxies:
   sni: ubuntu com
   tls: false
   type: hysteria2
-- name: '@Selinc #1'
-  password: dongtaiwang.com
-  port: 63015
-  server: 108.181.5.130
-  skip-cert-verify: true
-  sni: apple.com
-  tls: false
-  type: hysteria2
 - name: '  : @V2Gatee #2'
   password: dongtaiwang.com
   port: 5355
