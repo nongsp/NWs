@@ -336,15 +336,6 @@ proxies:
   type: hysteria2
 - name: '@FreakConfig #8'
   obfs: salamander
-  obfs-password: wcancmaocnewrivbkacmlmsvwuvdfsv
-  password: lHoYmNZmLe
-  port: 28777
-  server: pouria.3dfigures.ir
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '@FreakConfig #9'
-  obfs: salamander
   obfs-password: uvahwuicbhwabhvlhv
   password: lHoYmNZmLe
   port: 53713
