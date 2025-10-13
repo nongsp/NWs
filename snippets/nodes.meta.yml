@@ -74,7 +74,7 @@ proxies:
   sni: banmabanmabanmabanmabanmabanma2.wanlidag.top
   tls: false
   type: hysteria2
-- name: rt
+- name: '@FreakConfig #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c
@@ -84,7 +84,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #1'
+- name: '@FreakConfig #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c
@@ -94,7 +94,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #2'
+- name: '@FreakConfig #3'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c
@@ -104,7 +104,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #5'
+- name: '@FreakConfig #6'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c
@@ -268,7 +268,7 @@ proxies:
   sni: hacks.mozilla.org
   tls: false
   type: hysteria2
-- name: '@FreakConfig #6'
+- name: '@FreakConfig #7'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -278,7 +278,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: '@FreakConfig #8'
+- name: '@FreakConfig #9'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -308,7 +308,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #7'
+- name: '@FreakConfig #10'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -318,7 +318,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@FreakConfig #9'
+- name: '@FreakConfig #11'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -328,7 +328,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@FreakConfig #10'
+- name: '@FreakConfig #12'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -423,7 +423,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@FreakConfig #12'
+- name: '@FreakConfig #14'
   password: c6bccea3-2f03-4f3e-80f4-d6757f1f3f46
   port: 41951
   server: 192.3.60.176
@@ -488,7 +488,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@FreakConfig #13'
+- name: '@FreakConfig #15'
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
