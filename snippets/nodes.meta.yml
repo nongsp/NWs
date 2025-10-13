@@ -258,16 +258,6 @@ proxies:
   sni: cdnjs.cloudflare.com
   tls: false
   type: hysteria2
-- name: '@V2RayyNGvpn   #4'
-  obfs: salamander
-  obfs-password: V2RayyNGvpnjdbdbMiracle
-  password: Jjwvt9WrTp
-  port: 443
-  server: 91.107.150.208
-  skip-cert-verify: true
-  sni: hacks.mozilla.org
-  tls: false
-  type: hysteria2
 - name: '@FreakConfig #7'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
@@ -286,6 +276,16 @@ proxies:
   server: gavazn.lnmarketplace.net
   skip-cert-verify: true
   sni: gavazn.55994421.xyz
+  tls: false
+  type: hysteria2
+- name: '@V2RayyNGvpn   #4'
+  obfs: salamander
+  obfs-password: MiraCLeOPV2RayyNGvpntheBestt
+  password: TungFNUPI3
+  port: 8443
+  server: 138.124.60.198
+  skip-cert-verify: true
+  sni: cdnjs.cloudflare.com
   tls: false
   type: hysteria2
 - name: '@V2RayyNGvpn   #5'
@@ -496,7 +496,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 'WI-FI--@IRAN_V2RAY1 #2'
+- name: '  : @V2Gatee'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
