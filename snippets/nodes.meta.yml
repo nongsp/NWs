@@ -259,7 +259,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: ' - NL - @freeOnlineVPN #2'
+- name: ' - NL - @freeOnlineVPN #3'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -269,7 +269,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: ' - NL - @freeOnlineVPN #3'
+- name: ' - NL - @freeOnlineVPN #5'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -279,7 +279,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@FreakConfig #11'
+- name: ' - NL - @freeOnlineVPN #8'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -289,7 +289,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #10'
+- name: ' - NL - @freeOnlineVPN #11'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -299,7 +299,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: ' - NL - @freeOnlineVPN #5'
+- name: ' - NL - @freeOnlineVPN #13'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -309,7 +309,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: ' - NL - @freeOnlineVPN #6'
+- name: ' - NL - @freeOnlineVPN #15'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
