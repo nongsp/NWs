@@ -37,7 +37,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@FreakConfig #8'
+- name: ' - NL - @freeOnlineVPN #16'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -447,17 +447,17 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 'All-@IRAN_V2RAY1 #4'
+- name: ' - NL - @freeOnlineVPN #13'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
   port: 35000
   server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: ' - NL - @freeOnlineVPN #14'
+- name: ' - NL - @freeOnlineVPN #18'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -467,7 +467,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: ' - NL - @freeOnlineVPN #17'
+- name: ' - NL - @freeOnlineVPN #21'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
