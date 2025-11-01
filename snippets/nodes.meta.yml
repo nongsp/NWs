@@ -271,7 +271,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '@V2rayNG3 #11'
+- name: '@V2rayNG3 #9'
   password: 75577117-ABCD-DCBA-AAAA-CC777775577B
   port: 7777
   server: s15.serv00.com
@@ -399,7 +399,7 @@ proxies:
   sni: els1.dimoyun.top
   tls: false
   type: hysteria2
-- name: '@V2rayNG3 #12'
+- name: '@V2rayNG3 #10'
   obfs: salamander
   obfs-password: '@azadi_az_inja_migzare'
   password: '@azadi_az_inja_migzare'
@@ -409,7 +409,7 @@ proxies:
   sni: all-v4.dgi000.store
   tls: false
   type: hysteria2
-- name: '@V2rayNG3 #13'
+- name: '@V2rayNG3 #11'
   obfs: salamander
   obfs-password: bipbip
   password: AtTK3tiEA0
@@ -418,7 +418,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@V2rayNG3 #14'
+- name: '@V2rayNG3 #12'
   obfs: salamander
   obfs-password: bleepbloop
   password: AtTK3tiEA0
@@ -427,7 +427,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@V2rayNG3 #15'
+- name: '@V2rayNG3 #13'
   obfs: salamander
   obfs-password: bluhbluh
   password: AtTK3tiEA0
@@ -474,7 +474,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: ' - NL - @freeOnlineVPN #8'
+- name: '@FreakConfig #3'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -484,7 +484,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: ' - NL - @freeOnlineVPN #10'
+- name: '@FreakConfig #4'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -494,7 +494,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: ' - NL - @freeOnlineVPN #12'
+- name: '@IRAN_V2RAY1 #5'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -548,7 +548,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: ' - NL - @freeOnlineVPN #17'
+- name: ' - NL - @freeOnlineVPN #11'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -603,7 +603,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@V2rayNG3 #17'
+- name: '@V2rayNG3 #16'
   password: dongtaiwang.com
   port: 50717
   server: 46.17.41.189
@@ -626,7 +626,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '@V2rayNG3 #19'
+- name: '@V2rayNG3 #18'
   obfs: salamander
   obfs-password: dbc688df29e582d3
   password: f8e40931bbb827df
