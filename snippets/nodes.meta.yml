@@ -438,7 +438,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@FreakConfig #6'
+- name: ' - GB - @freeOnlineVPN #1'
   obfs: salamander
   obfs-password: khameniiko@smad@ret
   password: YwuvGJk36B
@@ -484,7 +484,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #7'
+- name: '@FreakConfig #8'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -494,7 +494,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #8'
+- name: '@FreakConfig #9'
   password: c232f411-96b5-4b07-b2f7-66a434725ffb
   port: 23891
   server: 108.165.213.197
@@ -502,7 +502,7 @@ proxies:
   sni: fus01.mistea.top
   tls: false
   type: hysteria2
-- name: '@FreakConfig #9'
+- name: '@FreakConfig #10'
   password: c232f411-96b5-4b07-b2f7-66a434725ffb
   port: 23899
   server: 193.142.59.41
@@ -539,7 +539,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@FreakConfig #10'
+- name: '@FreakConfig #11'
   password: d3da4e16-9bef-4e54-9bd9-960d32740392
   port: 30000
   server: sb1.oomz.ru
@@ -547,7 +547,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #11'
+- name: '@FreakConfig #12'
   password: d3da4e16-9bef-4e54-9bd9-960d32740392
   port: 30000
   server: sb2.oomz.ru
@@ -612,7 +612,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #12'
+- name: '@FreakConfig #13'
   password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1
   port: 30000
   server: us1.oomz.ru
@@ -620,7 +620,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #13'
+- name: '@FreakConfig #14'
   password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1
   port: 30000
   server: us2.oomz.ru
@@ -628,7 +628,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #14'
+- name: '@FreakConfig #15'
   password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1
   port: 30000
   server: us3.oomz.ru
@@ -868,11 +868,11 @@ proxies:
   tls: false
   type: vmess
   uuid: 841550b4-d4bf-4e3e-de9c-cff7baa47df3
-- name: TW_speednode_0008
-  password: exaxgqkKkd0TAMrCxeonWg==
-  port: 1443
-  server: twmoon1-cdn-route.couldflare-cdn.com
-  tls: true
-  type: http
+- name: US_speednode_0018
+  port: 47387
+  server: 198.186.131.216
+  skip-cert-verify: false
+  tls: false
+  type: vless
   udp: true
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
+  uuid: cdc453bb-34c8-4405-a322-56f6878ccd40
