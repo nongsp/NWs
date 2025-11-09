@@ -9,6 +9,15 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
+- name: '@NoForcedheaven'
+  obfs: salamander
+  obfs-password: 9242a8bf
+  password: a2678c97b8d79059
+  port: 443
+  server: 46.62.152.236
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: '@Mr_Config_Group✌️'
   obfs: salamander
   obfs-password: xFGh9dsyreJV9sMs1RUnFbwRdon
@@ -409,7 +418,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@FreakConfig #4'
+- name: '@V2rayAlpha--All-3'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -493,7 +502,7 @@ proxies:
   sni: fus01.mistea.top
   tls: false
   type: hysteria2
-- name: '@FreakConfig #8'
+- name: '@FreakConfig #7'
   password: c232f411-96b5-4b07-b2f7-66a434725ffb
   port: 23899
   server: 193.142.59.41
@@ -530,7 +539,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@FreakConfig #9'
+- name: '@FreakConfig #8'
   password: d3da4e16-9bef-4e54-9bd9-960d32740392
   port: 30000
   server: sb1.oomz.ru
@@ -538,7 +547,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #10'
+- name: '@FreakConfig #9'
   password: d3da4e16-9bef-4e54-9bd9-960d32740392
   port: 30000
   server: sb2.oomz.ru
