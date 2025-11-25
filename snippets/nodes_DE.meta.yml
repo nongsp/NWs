@@ -6,17 +6,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: ' - DE - @freeOnlineVPN #1'
-  obfs: salamander
-  obfs-password: MiracleV2RayyNGvpnfreeconf
-  password: ByBeTp5j5C
-  port: 2053
-  server: 83.147.253.96
-  skip-cert-verify: true
-  sni: webservice-admin.tgju.org
-  tls: false
-  type: hysteria2
-- name: ' - DE - @freeOnlineVPN #2'
+- name: ' - DE - @freeOnlineVPN'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -26,24 +16,24 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '@V2RayyNGvpn   #31'
+- name: ' - DE - @freeOnlineVPN #2'
   obfs: salamander
-  obfs-password: MiracleV2RayyNGvpnfreeconf
-  password: p1zskFmlFN
-  port: 2053
-  server: 83.147.253.96
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 77.90.41.197
   skip-cert-verify: true
-  sni: webservice-admin.tgju.org
+  sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: ' - DE - @freeOnlineVPN #5'
+- name: '@FreakConfig #13'
   obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: yrBnLOzhOi
-  port: 443
-  server: 91.99.225.11
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: dir.cybsecguru.com
   skip-cert-verify: true
-  sni: refersion.com
+  sni: jnir.pichondan.com
   tls: false
   type: hysteria2
 - name: DE_speednode_0008
