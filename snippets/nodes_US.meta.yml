@@ -1,4 +1,18 @@
 proxies:
+- name: '@v2ray_configs_poolUnited Stat...'
+  password: 537d7098-fdbe-11ef-8ebc-f23c93141fad
+  port: 443
+  server: eca509d2-t56dc0-tcjtj6-d70y.la.shifen.uk
+  sni: eca509d2-t56dc0-tcjtj6-d70y.la.shifen.uk
+  tls: false
+  type: hysteria2
+- name: '@v2ray_configs_poolUnited Stat... #1'
+  password: 7a2512b4-09ee-11f0-8d46-f23c9313b177
+  port: 443
+  server: 8b56a93d-t58800-tcm6ys-deip.la.shifen.uk
+  sni: 8b56a93d-t58800-tcm6ys-deip.la.shifen.uk
+  tls: false
+  type: hysteria2
 - name: 美国|@ripaojiedian
   network: tcp
   password: 2cf6d686799e6fa95316394064f26c0a
