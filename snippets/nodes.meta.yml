@@ -1,14 +1,5 @@
 proxies:
-- name: ⚙️19@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
-  password: 01537f15-1251-4345-a9fb-d152274bac2e
-  port: 7896
-  server: fr.axcc.top
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 未命名
+- name: 法兰克福
   password: 16461a78-363c-457a-92f9-83b0a68edc37
   port: 2056
   server: de.eyucdn.xyz
@@ -16,7 +7,7 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '未命名 #1'
+- name: 未命名
   password: 16461a78-363c-457a-92f9-83b0a68edc37
   port: 2056
   server: hk.eyucdn.xyz
@@ -24,7 +15,7 @@ proxies:
   sni: hk.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '未命名 #2'
+- name: '未命名 #1'
   password: 16461a78-363c-457a-92f9-83b0a68edc37
   port: 2056
   server: sg2.eyucdn.xyz
@@ -32,7 +23,7 @@ proxies:
   sni: sg2.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '未命名 #3'
+- name: '未命名 #2'
   password: 16461a78-363c-457a-92f9-83b0a68edc37
   port: 2056
   server: sg3.eyucdn.xyz
@@ -40,7 +31,7 @@ proxies:
   sni: sg3.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '未命名 #4'
+- name: '未命名 #3'
   password: 16461a78-363c-457a-92f9-83b0a68edc37
   port: 2056
   server: zp1.eyucdn.xyz
@@ -112,7 +103,7 @@ proxies:
   sni: lsj3.mangshe.xyz
   tls: false
   type: hysteria2
-- name: '未命名 #6'
+- name: '未命名 #5'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: mg1.mangshe.xyz
@@ -128,7 +119,7 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: '未命名 #7'
+- name: '未命名 #6'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: xg1.mangshe.xyz
@@ -184,7 +175,7 @@ proxies:
   sni: tw2.jueduibupao.top
   tls: false
   type: hysteria2
-- name: '未命名 #9'
+- name: '未命名 #8'
   obfs: salamander
   obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
   password: 89a62b16-a3c3-4ad7-be18-6f0266f7a2c5
@@ -285,7 +276,7 @@ proxies:
   sni: ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com
   tls: false
   type: hysteria2
-- name: '未命名 #10'
+- name: '未命名 #9'
   password: a52663f7-bd8e-4553-a5de-ff6403a0ccfc
   port: 443
   server: 192.9.165.40
@@ -293,7 +284,7 @@ proxies:
   sni: cn.cremedelamer.com
   tls: false
   type: hysteria2
-- name: ' - NL - @freeOnlineVPN #7'
+- name: All-@V2rayAlpha--7
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -313,7 +304,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: ' - DE - @freeOnlineVPN #3'
+- name: 'telegram   #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -333,7 +324,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '未命名 #11'
+- name: '未命名 #10'
   password: de8854c7-fa17-4266-ae18-50a9732a0c4e
   port: 3001
   server: hk1.1010991.xyz
@@ -1045,7 +1036,7 @@ proxies:
   sni: webservice-admin.tgju.org
   tls: false
   type: hysteria2
-- name: '@V2RayyNGvpn   #19'
+- name: ' - DE - @freeOnlineVPN #2'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: UyGa9rn0Hk
