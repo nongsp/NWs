@@ -241,7 +241,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: ' - NL - @freeOnlineVPN #4'
+- name: MCI-IR--@V2rayAlpha-10
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -294,7 +294,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: All--@V2rayAlpha--27
+- name: ' - NL - @freeOnlineVPN #3'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -304,7 +304,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 'telegram   #2'
+- name: ' - DE - @freeOnlineVPN #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -314,7 +314,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: ' - DE - @freeOnlineVPN #4'
+- name: ' - DE - @freeOnlineVPN #3'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -1006,7 +1006,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #1'
+- name: '@FreakConfig'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -1036,7 +1036,7 @@ proxies:
   sni: webservice-admin.tgju.org
   tls: false
   type: hysteria2
-- name: ' - DE - @freeOnlineVPN #2'
+- name: '@V2RayyNGvpn   #19'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: UyGa9rn0Hk
@@ -1066,7 +1066,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #3'
+- name: '@FreakConfig #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1096,7 +1096,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: ' - NL - @freeOnlineVPN #5'
+- name: '@FreakConfig #2'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
