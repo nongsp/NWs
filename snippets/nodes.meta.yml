@@ -1,27 +1,11 @@
 proxies:
-- name: 🎨4@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: GyiIHT0mOkKCiq0Q
-  password: 274691f9-e6c0-46ff-82f2-3a9062872a04
-  port: 443
-  server: it1.miyazono-kaori.com
-  skip-cert-verify: true
-  sni: it1.miyazono-kaori.com
-  tls: false
-  type: hysteria2
-- name: 11@oneclickvpnkeys
+- name: ❄️11@oneclickvpnkeys
   obfs: salamander
   obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
   password: 36097cf0-8f15-4697-8825-b21e6ec9e551
   port: 443
   server: 185.181.10.186
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 2@oneclickvpnkeys
-  password: 693a3ce6-2188-4fe9-82c0-c5c289532534
-  port: 20000
-  server: hl.dabache.top
   tls: false
   type: hysteria2
 - name: 32@oneclickvpnkeys
@@ -54,7 +38,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 'rya #1'
+- name: 'telegram   #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -909,7 +893,7 @@ proxies:
   sni: e1d6b467-t53wg0-td5oia-1m49t.us.hyhuawei.com
   tls: false
   type: hysteria2
-- name: 'telegram   #3'
+- name: 'telegram   #4'
   password: c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9
   port: 443
   server: 72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com
