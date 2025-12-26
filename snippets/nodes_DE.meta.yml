@@ -17,7 +17,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: DE_speednode_0005
+- name: DE_speednode_0001
   network: ws
   port: 80
   server: 77.37.33.169
