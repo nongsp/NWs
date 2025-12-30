@@ -28,7 +28,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: ' - NL - @freeOnlineVPN #3'
+- name: ' - NL - @freeOnlineVPN #5'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -38,7 +38,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 32@ConfigV2RayNG
+- name: ' - NL - @freeOnlineVPN #12'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -48,7 +48,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 'telegram   #2'
+- name: ' - NL - @freeOnlineVPN #14'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -58,7 +58,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: ' - DE - @freeOnlineVPN #2'
+- name: ' - DE - @freeOnlineVPN #4'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -68,7 +68,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '21@oneclickvpnkeys #1'
+- name: All--@V2rayAlpha-18
   password: d9812081-7f61-456d-9340-a1fb8dfd603b
   port: 443
   server: 129.151.115.91
@@ -108,7 +108,7 @@ proxies:
   sni: falankefu1.nezhasu.com
   tls: false
   type: hysteria2
-- name: 18@oneclickvpnkeys
+- name: All--@V2rayAlpha-15
   password: d9812081-7f61-456d-9340-a1fb8dfd603b
   port: 443
   server: 145.241.187.70
@@ -116,7 +116,7 @@ proxies:
   sni: johannesburg-2.nezhasu.com
   tls: false
   type: hysteria2
-- name: 25@oneclickvpnkeys
+- name: 'azadiiivpn #1'
   password: d9812081-7f61-456d-9340-a1fb8dfd603b
   port: 443
   server: 152.67.50.33
@@ -132,7 +132,7 @@ proxies:
   sni: gysdyg-2.nezhasu.com
   tls: false
   type: hysteria2
-- name: '15@oneclickvpnkeys #1'
+- name: 15@oneclickvpnkeys
   password: d9812081-7f61-456d-9340-a1fb8dfd603b
   port: 443
   server: 80.225.196.14
@@ -148,7 +148,7 @@ proxies:
   sni: mumbai-4.nezhasu.com
   tls: false
   type: hysteria2
-- name: '19@oneclickvpnkeys #1'
+- name: All--@V2rayAlpha-16
   password: d9812081-7f61-456d-9340-a1fb8dfd603b
   port: 443
   server: 84.8.134.187
@@ -156,7 +156,7 @@ proxies:
   sni: johannesburg-3.nezhasu.com
   tls: false
   type: hysteria2
-- name: '20@oneclickvpnkeys #1'
+- name: All--@V2rayAlpha-14
   password: d9812081-7f61-456d-9340-a1fb8dfd603b
   port: 443
   server: 84.8.134.242
@@ -188,7 +188,7 @@ proxies:
   sni: ''
   tls: false
   type: hysteria2
-- name: ' - DE - @freeOnlineVPN'
+- name: ' - DE - @freeOnlineVPN #1'
   obfs: salamander
   obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
   password: e6499c55-5a54-4a2b-a1f8-725a17b4ae85
@@ -521,7 +521,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: ' - DE - @freeOnlineVPN #1'
+- name: ' - DE - @freeOnlineVPN #2'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: GZCEhvG4qN
@@ -597,7 +597,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: ' - NL - @freeOnlineVPN #4'
+- name: ' - NL - @freeOnlineVPN #6'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -607,7 +607,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@IRAN_V2RAY1 #7'
+- name: ' - NL - @freeOnlineVPN #8'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -617,7 +617,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '  @Daily_Configs '
+- name: ' - NL - @freeOnlineVPN #9'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -627,7 +627,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@FreakConfig #3'
+- name: ' - NL - @freeOnlineVPN #10'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -690,7 +690,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: 34@ConfigV2RayNG
+- name: ' - NL - @freeOnlineVPN #15'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -710,7 +710,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 11@ConfigV2RayNG
+- name: ' - DE - @freeOnlineVPN #5'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -840,13 +840,6 @@ proxies:
   sni: us.xn--gmq00sc0nuve.shop
   tls: false
   type: hysteria2
-- name: '@TapsiVpn  JOIN   @TapsiVpn  J...'
-  password: dc4b63d4-5010-4b92-b0e8-adfa4c3292c4
-  port: 21738
-  server: us.xn--9kqy68chx3a.shop
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
 - name: All--@V2rayAlpha--18
   password: de629d50-1711-11ed-bd7c-f23c913c8d2b
   port: 443
@@ -954,7 +947,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: ' - DE - @freeOnlineVPN #3'
+- name: ' - DE - @freeOnlineVPN #6'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: kl6QSAMhZS
