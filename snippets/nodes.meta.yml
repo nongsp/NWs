@@ -38,7 +38,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: ' Hysteria-TLS | @Express_alaki...'
+- name: '@Trick_mobil #5'
   password: Telegram-->@Ln2Ray
   port: 45000
   server: gavazn.lnmarketplace.net
@@ -109,9 +109,9 @@ proxies:
   sni: dash.cloudflare.com
   tls: false
   type: hysteria2
-- name: 🟢Ṭelegram"@Filtering2020"
+- name: elegram"@Filtering2020"
   obfs: salamander
-  obfs-password: 'Telegram-->@AliXTso '
+  obfs-password: Telegram-->@AliXTso
   password: Telegram-->@AliXTso
   port: 45000
   server: gavazn.lnmarketplace.net
@@ -129,7 +129,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: ' @KIA_NET2'
+- name: All_7--@V2rayAlpha
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -139,7 +139,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: ' @KIA_NET8'
+- name: '@V2rayngSeven #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -149,7 +149,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: ' @KIA_NET9'
+- name: '@V2rayngSeven #2'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -159,7 +159,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: ' @KIA_NET6'
+- name: '@V2rayngSeven #3'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -169,7 +169,7 @@ proxies:
   sni: ' [By EbraSha]'
   tls: false
   type: hysteria2
-- name: ' @KIA_NET7'
+- name: '@V2rayngSeven #4'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
