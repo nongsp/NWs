@@ -4,7 +4,7 @@ proxies:
   port: 1743
   server: c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk
   skip-cert-verify: true
-  sni: рҹ”’
+  sni: 🔒
   tls: false
   type: hysteria2
 - name: '@Trick_mobil #1'
@@ -55,7 +55,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: рҹ©ө+@Azarakhsh_Proxy+рҹ©·
+- name: 🩵+@Azarakhsh_Proxy+🩷
   obfs: salamander
   obfs-password: KevinZakarian
   password: KevinZakarian
