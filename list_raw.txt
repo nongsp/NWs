@@ -51,10 +51,10 @@ vless://b605b776-b676-430e-8957-00f1e0166bee@vleesvpn-app-nl01.gw-vpn.click:443?
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;j.setAttribute('nonce',
 <link crossorigin="" href="https://snowplowprd.trx.gitlab.net" rel="preconnect">
 gl.snowplowPseudonymizedPageUrl = "https://gitlab.com/users/sign_in";
-<script src="https://cdn.cookielaw.org/consent/7f944245-c5cd-4eed-a90e-dd955adfdd08/OtAutoBlock.js" defer="defer" nonce="9HJ8L6JEZR/5tMLHf0sx9A=="></script>
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJXWQL"
-oneTrustScript.src = 'https://cdn.cookielaw.org/scripttemplates/otSDKStub.js';
 <a href="https://about.gitlab.com">About GitLab</a>
   json.setAttribute('src', 'https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location/geofeed');
-https://gist.githubusercontent.com/peasoft/40b87245630092f30cc98af61190b4e2/raw/
 <a target="_blank" class="text-nowrap" rel="noopener noreferrer" href="https://forum.gitlab.com">GitLab community forum</a>
+https://gist.githubusercontent.com/peasoft/40b87245630092f30cc98af61190b4e2/raw/
+<script src="https://cdn.cookielaw.org/consent/7f944245-c5cd-4eed-a90e-dd955adfdd08/OtAutoBlock.js" defer="defer" nonce="ieAo6eHeLZTd7LGGPOX3PA=="></script>
+oneTrustScript.src = 'https://cdn.cookielaw.org/scripttemplates/otSDKStub.js';
