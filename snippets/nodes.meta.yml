@@ -9,7 +9,7 @@ proxies:
   sni: web.bale.ai
   tls: false
   type: hysteria2
-- name: ' @Pirimod_org |  '
+- name: ' @Bluefilter_org |        '
   password: DBUklcvOyH
   port: 443
   server: 45.81.19.251
@@ -17,7 +17,7 @@ proxies:
   sni: web.bale.ai
   tls: false
   type: hysteria2
-- name: https://t.me/crayingroom
+- name: KurdConfing
   obfs: salamander
   obfs-password: kish-data
   password: Fa3JN012u2
