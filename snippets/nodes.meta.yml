@@ -33,6 +33,16 @@ proxies:
   sni: x.kishonline.online
   tls: false
   type: hysteria2
+- name: '@B2vasl1'
+  obfs: salamander
+  obfs-password: kish-data-center
+  password: Kz0JGcGICb
+  port: 443
+  server: srm.kishonline.online
+  skip-cert-verify: false
+  sni: srm.kishonline.online
+  tls: false
+  type: hysteria2
 - name: '@config4k _  '
   obfs: salamander
   obfs-password: kish-data-center
@@ -43,7 +53,7 @@ proxies:
   sni: srm.kishonline.online
   tls: false
   type: hysteria2
-- name: '@B2vasl1'
+- name: '@B2vasl1 #1'
   obfs: salamander
   obfs-password: kish-data-center
   password: WUrsRGf7u2
