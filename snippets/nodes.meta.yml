@@ -1,4 +1,12 @@
 proxies:
+- name: 🇩🇪49134 | ⚡️Telegram = t.me/SO...
+  password: 18cf8030-1ceb-4b7d-8c0c-c036413c144e
+  port: 4433
+  server: 185.228.139.247
+  skip-cert-verify: true
+  sni: de2.xiaoliyu.cyou
+  tls: false
+  type: hysteria2
 - name: '@KAFING_2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -9,7 +17,17 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 48289 | Telegram = t.me/SOSkey...
+- name: 49164 | Telegram = t.me/SOSkey...
+  obfs: salamander
+  obfs-password: hH0l2Acqz3RtodoSCNCpNJqDSZtp4Qw
+  password: rstnnl2705
+  port: 443
+  server: musicclips.videolinks.ru
+  skip-cert-verify: true
+  sni: musicclips.videolinks.ru
+  tls: false
+  type: hysteria2
+- name: '@internet_azad_2026'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -19,7 +37,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: 48290 | Telegram = t.me/SOSkey...
+- name: '@internet_azad_2026 #2'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -29,7 +47,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: 48292 | Telegram = t.me/SOSkey...
+- name: '@internet_azad_2026 #3'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -39,7 +57,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: 48287 | Telegram = t.me/SOSkey...
+- name: '@internet_azad_2026 #4'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -49,7 +67,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: 48288 | Telegram = t.me/SOSkey...
+- name: '@internet_azad_2026 #5'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -59,7 +77,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: 48291 | Telegram = t.me/SOSkey...
+- name: '@internet_azad_2026 #7'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -69,7 +87,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@mtproto_proserver #1'
+- name: '@outline_ir'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -259,6 +277,26 @@ proxies:
   sni: qs.masir-sefid.shop
   tls: false
   type: hysteria2
+- name: '@internet_azad_2026(1)'
+  obfs: salamander
+  obfs-password: Masir_Sefid
+  password: Masir_Sefid
+  port: 443
+  server: 84.234.29.71
+  skip-cert-verify: false
+  sni: free2.masir-sefid.shop
+  tls: false
+  type: hysteria2
+- name: '@internet_azad_2026(3)'
+  obfs: salamander
+  obfs-password: Masir_Sefid
+  password: Masir_Sefid
+  port: 8880
+  server: 84.234.29.71
+  skip-cert-verify: false
+  sni: free2.masir-sefid.shop
+  tls: false
+  type: hysteria2
 - name: ' - NL - @FreeOnlineVPN'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -277,6 +315,17 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: '@V2Ray_Hub1200'
+  obfs: salamander
+  obfs-password: masir_sefid
+  password: masir_sefid
+  port: 443
+  ports: 500-56000
+  server: 3.121.136.75
+  skip-cert-verify: false
+  sni: content.masir-sefid.shop
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
