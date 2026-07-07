@@ -59,7 +59,7 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.230.24:443?insecure=1&sni=vpn-sg-001
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.251.212.188:443?insecure=1&sni=vpn-sg-001.fastervpn.world#49%40v2ray_configs_pools
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443?insecure=1&sni=vpn-sg-001.fastervpn.world#46%40NetFlowTools
 hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fp=chrome&sni=pro2.riziro.ir&obfs=salamander&obfs-password=2gg0tx9d2etug8n9#hysteria
-hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?insecure=0&sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#%40ATLAS_V2VPN430
+hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?insecure=0&sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#%40meliproxyy%20%231
 hysteria2://t-me-V2RayyNGvpN@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%40V2RayyNGvpn%20%232
 hysteria2://t-me-V2RayyNGvpn@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%40V2RayyNGvpn%20%234
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=https://www.calmloud.com#%40V2raybazi
