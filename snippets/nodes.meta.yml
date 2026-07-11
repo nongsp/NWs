@@ -63,7 +63,17 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: ♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️432🌐...
+- name: 🇩🇪 t-me-V2RayyNGvpn 🇩🇪
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: 58cb3fdyZN
+  port: 40460
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
+- name: '@ATLAS_V2VPN432'
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
   password: 653m8mmiy7048p0f
@@ -123,16 +133,6 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: '@V2RayyNGvpn #2'
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: QjdEEystFJ
-  port: 40460
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
 - name: '@prrofile_purple   '
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -143,7 +143,7 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: '@V2RayyNGvpn #3'
+- name: '@V2RayyNGvpn #2'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: Vcl3b47Nvd
@@ -212,7 +212,7 @@ proxies:
   sni: tunel1.washing.help
   tls: false
   type: hysteria2
-- name: '@V2RayyNGvpn #4'
+- name: '@V2RayyNGvpn #3'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: y4nJ8poIsh
