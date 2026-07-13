@@ -238,7 +238,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 'TelegramV2RayyNGvpn #2'
+- name: 109753 | Telegram = t.me/SOSke...
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: Z5dFAw7u6U
@@ -571,6 +571,16 @@ proxies:
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: uQUfGOf9Mx
+  port: 33884
+  server: 140.233.177.48
+  skip-cert-verify: true
+  sni: www.oracle.com
+  tls: false
+  type: hysteria2
+- name: 'TelegramV2RayyNGvpn #3'
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: vVaz4PV7B7
   port: 33884
   server: 140.233.177.48
   skip-cert-verify: true
