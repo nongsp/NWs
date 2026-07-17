@@ -63,7 +63,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 🪙19@oneclickvpnkeys
+- name: 113722 | Telegram = t.me/SOSke...
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: 3uIVdQh2vc
@@ -97,36 +97,6 @@ proxies:
   sni: qg.easyiran.org
   tls: false
   type: hysteria2
-- name: '@V2RayyNGvpn  '
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: 92QgVKZjWa
-  port: 40460
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: 'telegram @mtmvpn '
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: CakZRUUlundefinedS
-  port: 40460
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: 'telegram @mtmvpn  #1'
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: JxCHTtg2gX
-  port: 40460
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
 - name: Telegram=V2RayyNGvpn
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
@@ -147,7 +117,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 113465 | Telegram = t.me/SOSke...
+- name: '@Surfboardv2ray'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: M4q4riAk3C
@@ -167,7 +137,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 'Telegram=V2RayyNGvpn #1'
+- name: 113721 | Telegram = t.me/SOSke...
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: Ov5kSglMCd
@@ -235,7 +205,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs :  '
+- name: '@Surfboardv2ray #1'
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
   password: V2RayyNGvpn
@@ -265,7 +235,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 'Telegram=V2RayyNGvpn #5'
+- name: '@AzarAndoozVPNbot #2'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: ZkaDQncyundefineda
@@ -283,6 +253,14 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: FR-@VPNine1
+  password: dongtaiwang.com
+  port: 22000
+  server: 62.210.124.146
+  skip-cert-verify: true
+  sni: www.microsoft.com
   tls: false
   type: hysteria2
 - name: '@erfanandroid'
@@ -305,7 +283,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@FreakConfig #2'
+- name: '@FreakConfig #1'
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
   password: elknam6l7izf3z71
@@ -313,6 +291,15 @@ proxies:
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 113661 | Telegram = t.me/SOSke...
+  obfs: salamander
+  obfs-password: eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=
+  password: f7cb07a0-e6f9-4d22-a60e-c61854450c89
+  port: 443
+  server: vn2.yuntong.click
+  sni: vn2.yuntong.click
   tls: false
   type: hysteria2
 - name: '@erfanandroid #1'
@@ -335,7 +322,7 @@ proxies:
   sni: tunel1.washing.help
   tls: false
   type: hysteria2
-- name: 未命名
+- name: 113720 | Telegram = t.me/SOSke...
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: vVaz4PV7B7
