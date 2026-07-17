@@ -1,5 +1,5 @@
 proxies:
-- name: 美国2
+- name: зҫҺеӣҪ2
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: mg2.mangshe.xyz
@@ -63,7 +63,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 🪙19@oneclickvpnkeys
+- name: рҹӘҷ19@oneclickvpnkeys
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: 3uIVdQh2vc
@@ -97,24 +97,6 @@ proxies:
   sni: qg.easyiran.org
   tls: false
   type: hysteria2
-- name: DE-@VPNine1
-  obfs: salamander
-  obfs-password: u3do5j2gss7mfri9
-  password: 9204bccb42c743799c6069feccb7832d
-  port: 443
-  server: de1.jamezwin.org
-  sni: de1.jamezwin.org
-  tls: false
-  type: hysteria2
-- name: FI-@VPNine1
-  obfs: salamander
-  obfs-password: rtm0hc7dpaqfd8d7
-  password: 9204bccb42c743799c6069feccb7832d
-  port: 443
-  server: fl1.jamezwin.org
-  sni: fl1.jamezwin.org
-  tls: false
-  type: hysteria2
 - name: '@V2RayyNGvpn  '
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -123,6 +105,14 @@ proxies:
   server: 91.107.152.188
   skip-cert-verify: true
   sni: www.amd.com
+  tls: false
+  type: hysteria2
+- name: 113040 | Telegram = t.me/SOSke...
+  password: 95c61940-2823-4665-a033-d4f2218329b6
+  port: 443
+  server: 46.8.210.209
+  skip-cert-verify: false
+  sni: ru3.kinotorg.net
   tls: false
   type: hysteria2
 - alpn:
@@ -275,6 +265,16 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
+- name: 'Telegram=V2RayyNGvpn #5'
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: ZkaDQncyundefineda
+  port: 31999
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
 - name: '@KAFING_2 #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -345,7 +345,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: '  @V2RayyNGvpn'
+- name: 未命名
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: vVaz4PV7B7
