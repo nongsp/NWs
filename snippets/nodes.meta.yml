@@ -157,6 +157,16 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
+- name: Telegram=V2RayyNGvpn
+  obfs: salamander
+  obfs-password: T-ME-V2RayyNGvpn
+  password: KJX4HQHodA
+  port: 25810
+  server: 91.107.174.32
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
 - name: +@Azarakhsh_Proxy+
   obfs: salamander
   obfs-password: KevinZakarian
@@ -177,7 +187,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: Telegram=V2RayyNGvpn
+- name: 'Telegram=V2RayyNGvpn #1'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: Ov5kSglMCd
@@ -187,7 +197,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 'Telegram=V2RayyNGvpn #1'
+- name: 'Telegram=V2RayyNGvpn #2'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: RKJDOKrcIZ
@@ -205,7 +215,7 @@ proxies:
   server: pristytools.com.pristytools.com
   tls: false
   type: hysteria2
-- name: 'Telegram=V2RayyNGvpn #2'
+- name: 'Telegram=V2RayyNGvpn #3'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: V2RayyNGvpn-
@@ -225,7 +235,7 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: 'Telegram=V2RayyNGvpn #3'
+- name: 'Telegram=V2RayyNGvpn #4'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: V2RayyNGvpn
@@ -305,16 +315,6 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@V2RayyNGvpn   #1'
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: p3HaP2Lht6
-  port: 40460
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
 - name: '@erfanandroid #1'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
@@ -335,7 +335,7 @@ proxies:
   sni: tunel1.washing.help
   tls: false
   type: hysteria2
-- name: '@V2RayyNGvpn   #2'
+- name: '@V2RayyNGvpn   #1'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: tf5LINcpQy
