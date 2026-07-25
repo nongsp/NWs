@@ -17,13 +17,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 73@oneclickvpnkeys
-  password: 042a1881-44e4-4781-bd40-bf75164faf4f
-  port: 443
-  server: germany1.noesissite.ru
-  sni: germany1.noesissite.ru
-  tls: false
-  type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: DE_speednode_0003
